@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Creating the React to use with Node.js
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
